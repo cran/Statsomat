@@ -1,4 +1,4 @@
-4adf59abee40154eafb36630bdefb179 *DESCRIPTION
+c24482d0a81038fde92ea9e578697cdb *DESCRIPTION
 cf2aeaa344c132f867b52ed5ade157a6 *NAMESPACE
 a0850a2c2c5509835799b1ce4636885d *R/cfa.R
 bab824342ca13f35aed1bb5783794de3 *R/corrana.R
@@ -18,10 +18,9 @@ b396cc13dcc08347fc1192e0ce816a81 *inst/shiny-apps/CFA/report.Rmd
 d8e6e293c3a24173272ebcb0d944bf2e *inst/shiny-apps/CFA/report_code_UTF8.Rmd
 e0db23afe9e58fd10359553a7985f434 *inst/shiny-apps/CFA/report_code_common.Rmd
 74e70e5b3e12ff3458861c2ebadd61db *inst/shiny-apps/CFA/report_code_unknown.Rmd
-f52cf66847b0c0770166a7d812ed769c *inst/shiny-apps/CFA/report_kernel.Rmd
-21743689f1730af851dc1b87b999ab93 *inst/shiny-apps/CFA/rsconnect/shinyapps.io/statsomat/Confirmatory-factor-analysis.dcf
+20ecab14594a21dcede86459166ef5b3 *inst/shiny-apps/CFA/report_kernel.Rmd
 75ea310bab258c8557a027536e65481d *inst/shiny-apps/CFA/server.R
-81c2d13daa20e8bf5810304d7dc0da62 *inst/shiny-apps/CFA/ui.R
+3c5285795f9d700ed1d629f21c4e61fe *inst/shiny-apps/CFA/ui.R
 9cc72312aa0796b208e52b7e7349e558 *inst/shiny-apps/CFA/www/Also.html
 334f8e74ae92834ae0e79176d569e37d *inst/shiny-apps/CFA/www/Button.gif
 74cf10457947309672e88f31dfe3ff98 *inst/shiny-apps/CFA/www/Button.png
@@ -78,7 +77,6 @@ e22027f92bb208ede7016253f582cdc8 *inst/shiny-apps/EDAPY/report.Rmd
 f9113dad74c8f5b18e513b7bf637018f *inst/shiny-apps/EDAPY/report_code_common.Rmd
 767b3beef561ea7385c60d7edf36392c *inst/shiny-apps/EDAPY/report_code_unknown.Rmd
 02e54614ad42db854ec8c9746e1bf038 *inst/shiny-apps/EDAPY/report_kernel.Rmd
-33e99786efe8d89d3c3aad49c2f156a4 *inst/shiny-apps/EDAPY/rsconnect/shinyapps.io/statsomat/edapy.dcf
 2e441cffb96aae762897015ea2c628c0 *inst/shiny-apps/EDAPY/server.R
 c3069ebf61466b37fcbb1557a62d44aa *inst/shiny-apps/EDAPY/ui.R
 9cc72312aa0796b208e52b7e7349e558 *inst/shiny-apps/EDAPY/www/Also.html
@@ -139,7 +137,6 @@ e78c47fd7be529b1d5a5f6baaadf1a14 *inst/shiny-apps/PCA/references.bib
 a108e310cccc733aefff7e0148fcb4ba *inst/shiny-apps/PCA/report_code_common.Rmd
 7ce7eba2d9a1f749cc3b96161b19a8b9 *inst/shiny-apps/PCA/report_code_unknown.Rmd
 3a22f6a33c6b8689e5ad6fdb031f6a7b *inst/shiny-apps/PCA/report_kernel.Rmd
-56c5b40feb995c2088744cb1d2fe9181 *inst/shiny-apps/PCA/rsconnect/shinyapps.io/statsomat/Principal-components-analysis.dcf
 752c93e19c788ddbd58bdfbfa0be365e *inst/shiny-apps/PCA/server.R
 cd5f0f9986e933866045265b3e7afa36 *inst/shiny-apps/PCA/ui.R
 334f8e74ae92834ae0e79176d569e37d *inst/shiny-apps/PCA/www/Button.gif

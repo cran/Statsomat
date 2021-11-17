@@ -2,7 +2,7 @@ Package: Statsomat
 Type: Package
 Title: Shiny Apps for Automated Data Analysis and Automated
         Interpretation
-Version: 1.0
+Version: 1.1.0
 Authors@R: c(
   person("Denise", "Welsch", role = c("aut", "cre"), email = "denise.welsch@reyar.de", comment = c(ORCID = "0000-0001-8904-1631")),
   person("Berit", "Hunsdieck", role = "ctb"),
@@ -24,9 +24,9 @@ URL: https://statsomat.com
 Encoding: UTF-8
 RoxygenNote: 7.1.1
 NeedsCompilation: no
-Packaged: 2021-09-16 09:54:24 UTC; Denise Welsch
+Packaged: 2021-11-17 10:58:38 UTC; Denise Welsch
 Author: Denise Welsch [aut, cre] (<https://orcid.org/0000-0001-8904-1631>),
   Berit Hunsdieck [ctb],
   Omar Alhelal [ctb]
 Repository: CRAN
-Date/Publication: 2021-09-16 18:40:02 UTC
+Date/Publication: 2021-11-17 11:30:07 UTC
